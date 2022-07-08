@@ -1,4 +1,4 @@
-### Hi there 👋
+### Jooseop 👋
 
 <!--
 **jooseop/jooseop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jooseop)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=#3776AB"/>
